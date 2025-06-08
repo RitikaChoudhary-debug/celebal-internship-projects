@@ -12,6 +12,12 @@ This program allows you to generate:
 
 It takes a user-defined number of rows and dynamically prints these star patterns.
 
+## 📸 Sample Output
+
+Here's what the patterns look like:
+
+![Pattern Output](pattern_output.png)
+
 ---
 
 ## 📂 File Structure
