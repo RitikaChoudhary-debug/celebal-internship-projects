@@ -28,13 +28,13 @@ def main():
         print("Invalid input. Using default size 5.")
         rows = 5
 
-    print("\n🔻 Lower Triangular Pattern:")
+    print("\n Lower Triangular Pattern:")
     print_lower_triangle(rows)
 
-    print("\n🔺 Upper Triangular Pattern:")
+    print("\n Upper Triangular Pattern:")
     print_upper_triangle(rows)
 
-    print("\n⛰️  Pyramid Pattern:")
+    print("\n Pyramid Pattern:")
     print_pyramid(rows)
 
 
