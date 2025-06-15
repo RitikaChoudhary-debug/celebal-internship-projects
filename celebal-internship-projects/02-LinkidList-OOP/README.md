@@ -44,4 +44,5 @@ This is a sample output after deleting nodes from linked list.
 
 ## Linked List Demo
 
-![Linked List Demo](./04_linked_list_demo.gif)
+![Linked List Demo](02-LinkedList-OOP/04_linked_list_demo.gif)
+
