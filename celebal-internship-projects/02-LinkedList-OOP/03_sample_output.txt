@@ -1,0 +1,40 @@
+Test Case: Creating a sample list and deleting the 2nd node
+apple -> banana -> cherry -> None
+Deleted: banana
+apple -> cherry -> None
+Singly Linked List Demo by Ritika Choudhary
+Enter the number of nodes you want to add: 4
+Enter value for node 1: 5
+Enter value for node 2: 10
+Enter value for node 3: 15
+Enter value for node 4: 20
+Your Linked List:
+5 -> 10 -> 15 -> 20 -> None
+Do you want to delete a node? (yes/no): yes
+Enter the 1-based index of the node to delete: 1
+Deleted: 5
+Updated Linked List:
+10->15> 20 -> None
+Do you want to delete another node? (yes/no): yes
+Enter the 1-based index of the node to delete: 3
+Deleted: 20
+Updated Linked List:
+10 -> 15 -> None
+Do you want to delete another node? (yes/no): yes
+Enter the 1-based index of the node to delete: 5
+Error: Index is out of range.
+Updated Linked List:
+10 -> 15-> None
+Do you want to delete another node? (yes/no): yes
+Enter the 1-based index of the node to delete: 2
+Deleted: 15
+Updated Linked List:
+10 -> None
+Enter the 1-based index of the node to delete: 1
+Deleted:
+10
+Updated Linked List:
+The list is currently empty.
+The list is now empty. No more deletions possible.
+Final Linked List:
+The list is currently empty.
