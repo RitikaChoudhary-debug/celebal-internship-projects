@@ -16,7 +16,7 @@ It takes a user-defined number of rows and dynamically prints these star pattern
 
 Here's what the patterns look like:
 
-![Pattern Output](pattern_output.png)
+![Pattern Output](02_pattern_output.png)
 
 ---
 
