@@ -10,9 +10,9 @@ It supports adding, printing, and deleting nodes with robust exception handling.
 | File Name               | Description                                       |
 |------------------------|---------------------------------------------------|
 | [`linked_list.py`](linked_list.py)       | Main Python implementation                    |
-| [`04_linked_list_demo.gif`](04_linked_list_demo.gif) | GIF demo of the interactive CLI run         |
-| [`03_sample_output.txt`](03_sample_output.txt) | Sample terminal output of the program         |
-| [`05_output.png`](05_output.png)        | Screenshot of program output                  |
+| [`04_linked_list_demo.gif`](02_linked_list_demo.gif) | GIF demo of the interactive CLI run         |
+| [`03_sample_output.txt`](04_sample_output.txt) | Sample terminal output of the program         |
+| [`05_output.png`](03_output.png)        | Screenshot of program output                  |
 
 ---
 

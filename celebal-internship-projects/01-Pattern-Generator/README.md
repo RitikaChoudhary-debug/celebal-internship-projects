@@ -17,6 +17,7 @@ It takes a user-defined number of rows and dynamically prints these star pattern
 Here's what the patterns look like:
 
 ![Pattern Output](02_pattern_output.png)
+ [`03_output.txt`](03_output.txt)  Sample terminal output of the program
 
 ---
 
