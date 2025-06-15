@@ -1,6 +1,6 @@
-# Singly Linked List in Python
-# Created by Ritika Choudhary for Celebal Internship - June 2025
-
+# Singly Linked List implementation using OOP in Python.
+# Includes methods to add, print, and delete nodes with exception handling.
+# Tested with a sample list to demonstrate functionality.
 class Node:
     """
     Represents a node in the singly linked list.

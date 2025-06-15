@@ -35,3 +35,9 @@ delete 2nd node
 apple -> banana -> cherry -> None
 Deleted: banana
 apple -> cherry -> None
+
+## 🖼 Sample Output Screenshot
+
+This is a sample output after deleting nodes from linked list.
+
+![Linked List Output](04_output.png)
