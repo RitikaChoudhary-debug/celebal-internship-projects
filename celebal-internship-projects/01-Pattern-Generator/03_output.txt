@@ -1,0 +1,32 @@
+Welcome to Ritika's Pattern Generator 🎨  
+Enter the number of rows for your patterns (e.g., 5): 8
+
+🔻 Lower Triangular Pattern:
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+
+🔺 Upper Triangular Pattern:
+* * * * * * * *
+  * * * * * * *
+    * * * * * *
+      * * * * *
+        * * * *
+          * * *
+            * *
+              *
+
+⛰️ Pyramid Pattern:
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+  * * * * * *
+ * * * * * * *
+* * * * * * * *
