@@ -1,48 +1,52 @@
-# Singly Linked List in Python
+# 🧵 Singly Linked List in Python (OOP)
 
-This project implements a basic **Singly Linked List** using Object-Oriented Programming principles.
+This repository contains a Python implementation of a **Singly Linked List** using OOP principles.  
+It supports adding, printing, and deleting nodes with robust exception handling.
 
-> 📌 Created by Ritika Choudhary  
-> 🏢 Internship Project – Celebal Technologies  
-> 📅 June 2025
+---
 
-## 💡 Description
+## 📂 Files in This Repository
 
-The program creates a linked list using custom `Node` and `LinkedList` classes, and allows the user to:
+| File Name               | Description                                       |
+|------------------------|---------------------------------------------------|
+| [`linked_list.py`](linked_list.py)       | Main Python implementation                    |
+| [`04_linked_list_demo.gif`](04_linked_list_demo.gif) | GIF demo of the interactive CLI run         |
+| [`03_sample_output.txt`](03_sample_output.txt) | Sample terminal output of the program         |
+| [`05_output.png`](05_output.png)        | Screenshot of program output                  |
 
-- Add elements to the end of the list
-- Print the current list
-- Delete the nth node using a 1-based index
+---
 
-## 🔧 Features
+## 📽️ Demo GIF
 
-- Object-Oriented Design (`Node` and `LinkedList` classes)
-- User input-based list creation
-- Exception Handling:
-  - Trying to delete from an empty list
-  - Index out of range or invalid index
-- Automatic stop when the list is empty
-- One built-in test case (before user input) to demonstrate functionality
+> Visual demonstration of interactive execution  
+> _Click the image to view full size._
 
-## 🧪 Sample Test Case Output
+![Linked List Demo](04_linked_list_demo.gif)
+
+---
+
+## 📸 Screenshot Output
+
+> Static view of program output in terminal.
+
+![Program Output](05_output.png)
+
+---
+
+## 📄 Sample Output (Text Log)
+
+Read full program output as plain text here:  
+👉 [`03_sample_output.txt`](03_sample_output.txt)
+
+---
+
+## 🧪 Code Snippet from Test Case
 
 ```python
-# Sample Input
-list = ["apple", "banana", "cherry"]
-delete 2nd node
-
-# Output
-apple -> banana -> cherry -> None
-Deleted: banana
-apple -> cherry -> None
-
-## 🖼 Sample Output Screenshot
-
-This is a sample output after deleting nodes from linked list.
-
-![Linked List Output](04_output.png)
-
-## Linked List Demo
-
-![Linked List Demo](02-LinkedList-OOP/04_linked_list_demo.gif)
-
+test_list = LinkedList()
+test_list.add_node("apple")
+test_list.add_node("banana")
+test_list.add_node("cherry")
+test_list.print_list()
+test_list.delete_nth_node(2)
+test_list.print_list()
