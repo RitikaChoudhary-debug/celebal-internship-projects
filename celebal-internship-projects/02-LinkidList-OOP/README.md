@@ -43,4 +43,5 @@ This is a sample output after deleting nodes from linked list.
 ![Linked List Output](04_output.png)
 
 # Demo
-![Pattern Generator in Action](04_linked_list_demo.gif)
+
+![Linked List Demo](04_linked_list_demo.gif)
