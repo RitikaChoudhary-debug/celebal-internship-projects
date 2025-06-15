@@ -21,7 +21,7 @@ It supports adding, printing, and deleting nodes with robust exception handling.
 > Visual demonstration of interactive execution  
 > _Click the image to view full size._
 
-![Linked List Demo](04_linked_list_demo.gif)
+![Linked List Demo](02_linked_list_demo.gif)
 
 ---
 
@@ -29,14 +29,14 @@ It supports adding, printing, and deleting nodes with robust exception handling.
 
 > Static view of program output in terminal.
 
-![Program Output](05_output.png)
+![Program Output](03_output.png)
 
 ---
 
 ## 📄 Sample Output (Text Log)
 
 Read full program output as plain text here:  
-👉 [`03_sample_output.txt`](03_sample_output.txt)
+👉 [`03_sample_output.txt`](04_sample_output.txt)
 
 ---
 
