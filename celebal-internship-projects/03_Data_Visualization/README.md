@@ -2,25 +2,26 @@
 
 ## Overview
 
-This project explores and visualizes data from the **Open Sourcing Mental Illness (OSMI)** survey, which captures mental health awareness and support among professionals in the tech industry. The analysis aims to uncover patterns, correlations, and insights related to workplace conditions, mental health support, demographics, and more.
+This project analyzes the mental health landscape of professionals in the tech industry using data from the **Open Sourcing Mental Illness (OSMI)** survey. It aims to highlight trends related to awareness, workplace support, and individual well-being.
 
 ---
 
 ## Objectives
 
-- Clean and standardize survey data.
-- Perform exploratory data analysis (EDA).
-- Visualize mental health trends using professional plots.
-- Save cleaned data for downstream analysis.
+- Clean and standardize survey responses.
+- Explore demographic and psychological patterns.
+- Visualize relationships and distributions using professional plots.
+- Prepare cleaned data for downstream use.
 
 ---
 
-## Dataset Details
+## Dataset
 
-- **Source:** [OSMI Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
-- **Format:** CSV
-- **Features:** Age, Gender, Work Interference, Benefits, Supervisor Support, Mental Health Consequences, and more.
+- **Source:** [OSMI Mental Health in Tech Survey (via Kaggle)](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+- **Original File:** `01_mental_health_survey.csv`
+- **Cleaned Output:** `02_cleaned_mental_health_data.csv`
 
 ---
 
-## Folder Structure
+## Project Structure
+
