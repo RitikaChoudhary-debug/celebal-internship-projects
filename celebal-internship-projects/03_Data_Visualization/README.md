@@ -25,3 +25,6 @@ This project analyzes the mental health landscape of professionals in the tech i
 
 ## Project Structure
 
+![Mental Health in Tech Visualization Preview](04_visuals_preview.png)
+
+# Mental Health in Tech – Data Visualization Project
