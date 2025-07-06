@@ -1,5 +1,7 @@
 # 🏠 House Price Prediction – Data Preprocessing & Feature Engineering
 
+![Visuals Preview](visuals/preview.png)
+
 **Project Name:** House Price Pipeline  
 **Author:** Ritika Choudhary  
 **Education:** B.Tech Bioinformatics (Pre-final Year)  
