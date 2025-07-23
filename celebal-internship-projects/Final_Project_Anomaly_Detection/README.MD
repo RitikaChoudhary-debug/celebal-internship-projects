@@ -34,3 +34,5 @@ This project implements an unsupervised machine learning solution for detecting 
 **Date:** July 23, 2025
 
 ---
+
+## 📂 Project Structure
