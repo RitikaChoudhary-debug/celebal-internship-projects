@@ -36,3 +36,42 @@ This project implements an unsupervised machine learning solution for detecting 
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🛠️ Setup and Installation
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/RitikaChoudhary-debug/celebal-internship-projects.git](https://github.com/RitikaChoudhary-debug/celebal-internship-projects.git)
+    cd celebal-internship-projects/Final_Project_Anomaly_Detection
+    ```
+    _You need to navigate into the specific project folder after cloning._
+
+2.  **Create a Conda Environment (Recommended):**
+    ```bash
+    conda create -n anomaly_env python=3.10 # Or python=3.11, 3.12
+    conda activate anomaly_env
+    ```
+3.  **Install Dependencies:**
+    ```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn streamlit
+    ```
+4.  **Place the Dataset:**
+    Download the `kddcup.data_10_percent_corrected` dataset and place it directly into the `Final_Project_Anomaly_Detection/` directory (next to `app.py` and `src/`).
+    _The `file_path` variable in `src/anomaly_detection_project.py` is configured to find it here._
+
+---
+
+## 🚀 How to Run the Project
+
+### 1. Run the Main ML Pipeline (Training & Evaluation)
+
+This script will perform data loading, preprocessing, feature engineering, hyperparameter tuning, model training, and evaluation. It will also save the trained model and preprocessing objects.
+
+Navigate to the `Final_Project_Anomaly_Detection/` directory in your terminal (and activate your conda environment):
+
+```bash
+cd celebal-internship-projects/Final_Project_Anomaly_Detection
+conda activate anomaly_env # if you created one
+python -m src.anomaly_detection_project
