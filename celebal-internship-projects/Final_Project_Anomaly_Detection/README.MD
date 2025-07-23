@@ -34,23 +34,3 @@ This project implements an unsupervised machine learning solution for detecting 
 **Date:** July 23, 2025
 
 ---
-
-## 📂 Project Structure
-
-celebal-internship-projects/
-├── README.md                   # Project overview, setup, and documentation (This file)
-├── Final_Project_Anomaly_Detection/ # Main project directory
-│   ├── App_Demo.gif              # GIF demonstrating the Streamlit web application
-│   ├── Model_demo.gif            # GIF demonstrating the model training pipeline
-│   ├── app.py                    # Streamlit web application for interactive predictions
-│   ├── kddcup.data_10_percent_corrected # The raw dataset file
-│   ├── project_outputs_isolation_forest/ # Directory for saved plots and the trained model
-│   │   ├── iso_forest_anomaly_model.pkl # The trained Isolation Forest model
-│   │   └── ... (evaluation plots: confusion matrix, ROC curve, tuning plots)
-│   ├── cached_data/              # Directory for cached preprocessed data and preprocessing objects
-│   │   ├── scaler.pkl            # Trained StandardScaler object
-│   │   ├── label_encoders.pkl    # Trained LabelEncoder objects for categorical features
-│   │   └── ... (cached X_train, X_test, y_train_binary, y_test_binary)
-│   └── src/                      # Source code for the core ML pipeline
-│       └── anomaly_detection_project.py # Main script for data processing, model training, and evaluation
-└── ... (other project folders within 'celebal-internship-projects')
